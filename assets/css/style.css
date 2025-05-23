@@ -1,0 +1,111 @@
+/* .title{
+    background-color: rgb(138, 27, 203);
+}
+.population {
+    background-color: rgb(106, 67, 222);
+}
+
+.capital {
+    background-color: rgb(216, 137, 34);
+}
+
+.language {
+    background-color: rgb(37, 213, 213);
+}
+
+.picture {
+    background-color: rgb(22, 174, 123);
+}
+
+.prithvi-narayan-shah {
+    background-color: chartreuse;
+}
+
+.currency {
+    background-color: rgb(1, 35, 62);
+}
+
+.tourist-attractions {
+    background-color: rgb(214, 41, 199);
+}
+
+.famous-food {
+    background-color: rgb(203, 118, 14);
+}
+
+.link {
+    background-color: rgb(212, 17, 114);
+} */
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.prithvi-narayanshah {
+    background-color: blueviolet;
+
+}
+
+.box-wrapper {
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.box {
+    width:30%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 10px 5px 5px rgb(16, 1, 1);
+    border: 1px solid #ccc;
+    
+}
+.box img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+}
+.box-left{
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.box-right{
+    width: 80%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.w-10{
+    width: 10%;
+}
+.header {
+    text-align: center;
+    /* margin-top: 50px;
+    font-size: 36px;
+} */
+/* 全てに１０PX */
+.m-10 {
+    margin: 10px;
+    margin: 10px 10px 10px 10px;
+}
+/* 上に１０PX */
+.mt-10 {
+    margin-top: 10px;
+}
+/* 下に１０PX */
+.mb-10 {
+    margin-bottom: 10px;
+}
+/* 上下に１０PX */
+.my-10 {
+    margin: 10px 0;
+}
+/* 左右に１０PX */
+.mx-10 {
+    margin: 0 10px;
+}
