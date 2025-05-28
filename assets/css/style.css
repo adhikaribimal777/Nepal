@@ -89,7 +89,9 @@ img {
     font-size: 36px;
  */
  }
-
+section h1, section h2,section p {
+    padding: 0 3opx;;
+}
 /* 全てに１０PX */
 .m-10 {
     margin: 10px;
